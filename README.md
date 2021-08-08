@@ -131,5 +131,5 @@ print("Suburban: ",count_s)
 print("Rural: ",count_r)
 print(count_u+count_s+count_r)
 
-
+#end
 
